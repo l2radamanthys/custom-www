@@ -7,7 +7,8 @@ Custom-WWW
 Autor
 -----
     Ricardo D. Quiroga - l2radamanthys@gmail.com
-    _Sitio Web: http://wwww.co2soft.com.ar/
+    
+    Sitio Web: wwww.co2soft.com.ar
     
 
 Instalacion
