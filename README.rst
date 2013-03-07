@@ -8,7 +8,7 @@ Autor
 -----
     Ricardo D. Quiroga - l2radamanthys@gmail.com
     
-    Sitio Web: wwww.co2soft.com.ar
+    `Sitio Web: CO2Soft <wwww.co2soft.com.ar>`_.
     
 
 Instalacion
@@ -16,10 +16,13 @@ Instalacion
     La instalacion es bastante sencilla, solo tiene que copiar los siguientes archivos
     (reemplazar si es necesario) en su directorio raiz de desarollo:
 
-    _data
-    _styles
-    _images
-    index.php
+        - /_data (folder)
+    
+        - /_styles (folder)
+    
+        - /_images (folder)
+    
+        - index.php
 
     **Nota:** El directorio raiz suele estar ubicado en linux en "/var/www".
 
