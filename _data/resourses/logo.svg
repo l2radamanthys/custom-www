@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="Documento nuevo 1">
   <defs
      id="defs4">
     <linearGradient
@@ -65,9 +65,9 @@
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1028"
-     inkscape:window-x="-32000"
-     inkscape:window-y="-32000"
-     inkscape:window-maximized="0" />
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -84,35 +84,17 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g3031"
-       inkscape:export-filename="D:\Proyectos\PHP\custom-www\_data\resourses\logo.png"
-       inkscape:export-xdpi="72.103569"
-       inkscape:export-ydpi="72.103569">
-      <text
-         xml:space="preserve"
-         style="font-size:62.79600524999998600px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:LilyUPC;-inkscape-font-specification:LilyUPC"
+    <text
+       xml:space="preserve"
+       style="font-size:62.79600524999998600px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3011);fill-opacity:1;stroke:none;font-family:LilyUPC;-inkscape-font-specification:LilyUPC"
+       x="141.57722"
+       y="186.91556"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
          x="141.57722"
          y="186.91556"
-         id="text3021"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3023"
-           x="141.57722"
-           y="186.91556"
-           style="fill-opacity:1;fill:#ffffff;stroke:none">Custom-WWW</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text2985"
-         y="186.91556"
-         x="141.57722"
-         style="font-size:62.79600524999998600px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3011);fill-opacity:1;stroke:none;font-family:LilyUPC;-inkscape-font-specification:LilyUPC"
-         xml:space="preserve"><tspan
-           style="fill-opacity:1;fill:url(#linearGradient3011)"
-           y="186.91556"
-           x="141.57722"
-           id="tspan2987"
-           sodipodi:role="line">Custom-WWW</tspan></text>
-    </g>
+         style="fill-opacity:1;fill:url(#linearGradient3011)">Custom-WWW</tspan></text>
   </g>
 </svg>

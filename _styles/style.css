@@ -105,3 +105,11 @@ body {
     margin-top: 15px;
 }
 
+
+.files li{ 
+    float: left; 
+    width: 30%; 
+
+}
+
+

@@ -34,7 +34,7 @@ while($file_name = readdir($FILE_LIST)) {
     */
     #Windows
 	if (is_dir($file_name)) {   
-		echo '<li><img src="'.$FOLDER_ICON.'" align="center"><a href="'.$file_name.'">'.$file_name.'</a></li>';
+		echo '<li><img src="'.$FOLDER_ICON.'" align="center"><a href="'.$file_name.'">'.$file_name.'</a></li>'."\n";
 	}
     
     else {
