@@ -1,3 +1,39 @@
-.custom-navbar {
+footer {
+    color: #FFF;
+    height: 80px;
+    background-color: #377796;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.navbar-custom {
+    background-color: #377796;
+    border-radius: 0px !important;
+    border: 0px;
+}
+
+.navbar-custom a {
+    color: #FFF !important;
+}
+
+.navbar-custom a:hover {
+    color: #333 !important;
+}
+
+.navbar-custom .navbar-brand {
 
 }
+
+.item {
+     font-size: 12pt;
+     color: #333;
+     display: block;
+     height: 50px !important;
+
+}
+
+.item-icon {
+    font-size: 24pt;
+    color: #377796 !important;
+}
+

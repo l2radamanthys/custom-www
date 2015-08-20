@@ -8,7 +8,7 @@
     <title>Custom WWW</title>
 
     <link href="_data/styles/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="_data/styles/main-theme.css" rel="stylesheet" media="screen">
+    <link href="_data/styles/custom-theme.css" rel="stylesheet" media="screen">
 
 
     <script src="_data/scripts/jquery-2.1.1.min.js"></script>
@@ -20,7 +20,7 @@
     <![endif]-->
 </head>
 <body>
-    <nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-custom">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -29,7 +29,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#"><strong>Custom WWW</strong></a>
+          <a class="navbar-brand" href="#"><strong>CUSTOM WWW</strong></a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -47,6 +47,11 @@
         <div class="row">
           <# content #>
         </div>
-    </div><!-- /.container -->
+      </div><!-- /.container -->
+    </div>
+
+    <footer>
+        <p class="text-center">(C) Ricardo Daniel Quiroga - CO2Soft 2010 - 2015</p>
+    </footer>
   </body>
 </html>
